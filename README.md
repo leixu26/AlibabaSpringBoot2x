@@ -1,5 +1,5 @@
 # AlibabaSpringBoot2x
-最新《阿里巴巴Java Spring Boot 2.0开发实战课程》持续更新 完全免费
+最新《阿里巴巴Java Spring Boot 2.0开发实战课程》 每周2晚上8点直播，阿里2800人Java钉钉群 二维码课程连接中 持续更新 完全免费
 
 第1课：Spring Boot2.0新特性和入门实战,https://yq.aliyun.com/live/583  
 
