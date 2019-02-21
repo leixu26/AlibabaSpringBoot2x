@@ -35,5 +35,7 @@ AlibabaSpringBoot2xInAction
 
 第15课：Spring Boot 2.0 API接口实战Swagger和Spring REST Docs帮助文档 https://yq.aliyun.com/live/859
 
-欢迎加入阿里巴巴Java钉钉群，超过2800人，阿里专家直播，内部招聘。群二维码课程连接
+第16课：Spring Boot 2.0实战Apache Kafka百万级高并发消息中间件 https://yq.aliyun.com/live/868
+
+欢迎加入阿里巴巴Java钉钉群，超过3000人，阿里专家直播，内部招聘。群二维码课程连接
 
